@@ -1,0 +1,36 @@
+#header-nav{
+	background-color: #f4a896;
+	border-radius: 0;
+	border: 2;
+}
+.navbar-header h1{color:#358597}
+#nav-list{
+	margin-top:10px;
+}
+#nav-list a{
+	color:#358597;
+	text-align:center;
+}
+#nav-list a span{
+	font-size:1.8em;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border:1px solid #358591;
+}
+#header-nav button.navbar-toggle{
+	clear:both;
+	margin-top:10px
+}
+.navbar-brand{
+	font-size: 40px;
+}
+
+.container{
+	background-color:#358597;
+	border:2px solid black;
+
+
+}	
+.glyphicon{
+	margin-right: 10px;
+}
